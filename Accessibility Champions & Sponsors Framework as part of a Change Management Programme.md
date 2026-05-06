@@ -1,6 +1,6 @@
 # Accessibility Champions & Sponsors Framework as part of a Change Management Programme
 
-## 1\. Establishing an Accessibility Champions Network
+## Establishing an Accessibility Champions Network
 
 **Instruction**
 
@@ -14,7 +14,7 @@ Content from all three documents describing the purpose, value, and early steps 
 
 An accessibility champions network is a community of people across an organisation who help embed accessibility into everyday work. To implement this, begin by identifying motivated individuals across teams and offering them a clear invitation to participate, emphasising that anyone—regardless of role or expertise—can contribute. Introducing the network requires building early momentum through conversations, informal knowledge‑sharing, and visible leadership support. This approach ensures accessibility becomes part of organisational culture rather than a separate or siloed activity, increasing long‑term impact and sustainability.
 
-## 2\. Supporting and Empowering Champions
+## Supporting and Empowering Champions
 
 **Instruction**
 
@@ -28,7 +28,7 @@ Guidance from the brief on supporting volunteers, providing training, and mainta
 
 Champions should be supported through structured training, networking opportunities, and a dedicated communication channel where questions and insights can be shared. Implementing this support means offering regular learning sessions, drop‑ins, and community events that help champions feel connected and confident. This support has a significant impact: it builds a sense of belonging, reduces isolation, and ensures champions have the tools they need to influence their teams. Over time, this creates a self‑sustaining culture where accessibility knowledge spreads organically.
 
-## 3\. Responsibilities of Accessibility Champions
+## Responsibilities of Accessibility Champions
 
 **Instruction**
 
@@ -42,7 +42,7 @@ The four expectations listed in the brief and the broader responsibilities descr
 
 Champions are expected to ensure accessibility is discussed in every sprint or planning cycle so it is never deprioritised. This can be implemented by adding accessibility as a standing agenda item and prompting teams to consider inclusive design at each stage of development. Champions should also use the community channel to ask questions, share resources, and support others. This builds collective knowledge and accelerates problem‑solving across the organisation. They are encouraged to be kind, supportive, and collaborative, recognising that everyone is learning. This fosters psychological safety, which is essential for sustained engagement. Finally, champions should escalate complex issues to the wider group or accessibility team when needed. This ensures that blockers are addressed quickly and that champions never feel solely responsible for solving difficult problems.
 
-## 4\. The Role of an Accessibility Sponsor
+## The Role of an Accessibility Sponsor
 
 **Instruction**
 
@@ -56,7 +56,7 @@ Sponsor descriptions from the second document.
 
 An accessibility sponsor is a senior leader who provides strategic direction, secures funding, and removes organisational barriers. Implementing this role involves appointing someone with influence who can champion accessibility at the highest levels and ensure it remains a priority. The impact of a strong sponsor is substantial: they legitimise the work, unlock resources, and help align accessibility with organisational goals. Their involvement signals that accessibility is not optional but a core expectation.
 
-## 5\. The Role of a Business Accessibility Champion
+## The Role of a Business Accessibility Champion
 
 **Instruction**
 
@@ -70,7 +70,7 @@ Descriptions of business champions from the second document.
 
 A business accessibility champion works closer to day‑to‑day operations, translating strategy into action and ensuring progress is tracked. Implementing this role means identifying individuals who understand their teams’ workflows and can influence how accessibility is embedded. Their impact is seen in improved visibility, clearer communication, and more consistent follow‑through on accessibility commitments. They help ensure that accessibility goals are not only set but achieved.
 
-## 6\. Characteristics of Effective Sponsors and Champions
+## Characteristics of Effective Sponsors and Champions
 
 **Instruction**
 
@@ -84,7 +84,7 @@ Lists of characteristics from the second document.
 
 Effective sponsors and champions are proactive, collaborative, pragmatic, and eager to learn. Implementing this means selecting individuals who demonstrate curiosity, empathy, and a willingness to engage with new ideas. These traits have a strong impact on the network’s success because they foster trust, encourage open dialogue, and help maintain momentum even when challenges arise.
 
-## 7\. Training and Development Pathways
+## Training and Development Pathways
 
 **Instruction**
 
@@ -98,7 +98,7 @@ Training approaches described in the third document and the brief.
 
 Training should combine structured learning pathways with informal opportunities such as drop‑ins, lightning talks, and community discussions. Implementing this involves offering tiered learning levels, practical exercises, and opportunities for champions to share their own experiences. This approach has a powerful impact: it keeps champions engaged, helps them build confidence, and ensures they can apply accessibility principles directly to their work. Over time, it also develops future accessibility leaders.
 
-## 8\. Motivation, Recognition, and Retention
+## Motivation, Recognition, and Retention
 
 **Instruction**
 
@@ -112,7 +112,7 @@ Motivational models, recognition systems, and cultural reinforcement described a
 
 Champions remain motivated when they see progress, receive recognition, and feel part of a meaningful community. Implementing this may include badges, certificates, internal shout‑outs, or opportunities to present their work. Recognition has a strong impact on retention and morale. It reinforces the value of accessibility work and encourages champions to continue developing their skills and influence.
 
-## 9\. Managing and Scaling the Network
+## Managing and Scaling the Network
 
 **Instruction**
 
@@ -126,7 +126,7 @@ Guidance from all documents on management, scaling, and the need for a dedicated
 
 A champions network requires a dedicated manager who can coordinate activities, measure impact, and support champions across different teams. Implementing this means assigning someone with skills in community management, outreach, or change management. This role has a major impact on sustainability: it ensures the network remains organised, responsive, and aligned with organisational goals. Without this role, networks often lose momentum or become fragmented.
 
-## 10\. Knowledge Sharing and Cross‑Organisational Learning
+## Knowledge Sharing and Cross‑Organisational Learning
 
 **Instruction**
 
