@@ -1,6 +1,6 @@
 # Guidance for Creating a Digital Accessibility Policy
 
-## 1. Purpose & Scope
+## Purpose & Scope
 A strong policy begins by stating its purpose: ensuring digital products, services, and environments are accessible to everyone by removing barriers and facilitating inclusion.
 Prompt questions:
 
@@ -10,7 +10,7 @@ How does accessibility fit into your wider diversity or inclusion strategy?
 
 Who is covered by this policy (e.g., all users, specifically disabled people)?
 
-## 2. Commitment to Inclusion
+## Commitment to Inclusion
 Accessibility should be framed as a core organisational value and linked to diversity, equity, and inclusion strategies.
 Prompt questions:
 
@@ -20,7 +20,7 @@ What percentage of your audience or workforce may benefit from accessibility mea
 
 How will you ensure disabled people have comparable experiences to non-disabled people?
 
-## 3. Governance & Accountability
+## Governance & Accountability
 Policies should identify responsible roles and reporting structures (e.g., Board-level champions, accessibility teams).
 Prompt questions:
 
@@ -30,7 +30,7 @@ How will accessibility progress be reported (e.g., Board updates, annual reviews
 
 Do you have an Accessibility Champion or network?
 
-## 4. Accessibility Commitments
+## Accessibility Commitments
 Outline clear commitments that guide product and service development:
 
 Accessibility considered from the start.
@@ -49,7 +49,7 @@ Which teams share responsibility for accessibility?
 
 Which standards (WCAG, EAA, Section 508, etc.) will you commit to?
 
-## 5. Support Structures
+## Support Structures
 Define how accessibility expertise and resources are provided:
 
 Dedicated accessibility team or supplier.
@@ -68,7 +68,7 @@ How will accessibility knowledge be shared across teams?
 
 Will you use external suppliers or internal teams?
 
-## 6. Inclusive Research & Design
+## Inclusive Research & Design
 Accessibility policies should ensure disabled people are included in design and research:
 
 Disabled participants in audience research.
@@ -85,7 +85,7 @@ How will their feedback be incorporated into product design?
 
 What mechanisms ensure continuous improvement?
 
-## 7. Compliance & Continuous Improvement
+## Compliance & Continuous Improvement
 Accessibility is not a one-time task — it requires ongoing monitoring and improvement.
 
 Compliance with regulatory obligations.
