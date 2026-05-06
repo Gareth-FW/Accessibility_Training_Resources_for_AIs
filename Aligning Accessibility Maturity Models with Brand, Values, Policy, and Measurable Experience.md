@@ -18,7 +18,7 @@ True inclusion requires **well-designed, measurable experiences** that deliver c
 
 ---
 
-## 1. Core Principle: Accessibility as Organisational Integrity
+## Core Principle: Accessibility as Organisational Integrity
 
 Accessibility maturity reflects how consistently an organisation acts in line with its stated values when trade-offs arise.
 
@@ -28,7 +28,7 @@ Brand trust depends on experienced reality, not intention.
 
 ---
 
-## 2. Accessibility Maturity Model (AMM): What It Represents
+## Accessibility Maturity Model (AMM): What It Represents
 
 An AMM describes how effectively an organisation anticipates access needs, designs inclusive experiences, measures outcomes, and adapts over time.
 
@@ -36,28 +36,28 @@ A mature AMM is continuous, outcome-driven, and distributed across the organisat
 
 ---
 
-## 3. Alignment with Organisational and Brand Values
+## Alignment with Organisational and Brand Values
 
-### 3.1 Brand Values Must Be Experienced
+### Brand Values Must Be Experienced
 
 Brand values only matter if they are felt by customers in practice.  
 A gap between inclusive messaging and lived experience represents a brand integrity failure.
 
-### 3.2 Accessibility as Brand Proof
+### Accessibility as Brand Proof
 
 Accessibility maturity demonstrates whether brand values are real.  
 Separate or degraded experiences undermine credibility, even if compliant.
 
 ---
 
-## 4. Compliance as Foundation, Not Outcome
+## Compliance as Foundation, Not Outcome
 
 Regulation and guidelines establish minimum standards but do not measure experience quality.  
 Checkbox accessibility optimises for audits rather than users.
 
 ---
 
-## 5. Comparable Experience as a Core Metric
+## Comparable Experience as a Core Metric
 
 Comparable experience means disabled customers can achieve the same goals with similar effort, dignity, confidence, and time.
 
@@ -68,7 +68,7 @@ Key indicators include task success, effort, error rates, reliance on support, a
 
 ---
 
-## 6. Disabled Customer Satisfaction as a First-Class Signal
+## Disabled Customer Satisfaction as a First-Class Signal
 
 Generic satisfaction metrics often hide accessibility failures.  
 Mature organisations explicitly measure disabled customer satisfaction.
@@ -82,28 +82,28 @@ Key dimensions include:
 
 ---
 
-## 7. Accessibility, Data, and Ethics in Measurement
+## Accessibility, Data, and Ethics in Measurement
 
 Experience measurement must avoid intrusive tracking or inferred vulnerability.  
 Ethical measurement balances insight with privacy and consent.
 
 ---
 
-## 8. Alignment with Policy and Governance
+## Alignment with Policy and Governance
 
 Comparable experience and disabled customer satisfaction should be reviewed at senior levels.  
 Incentives must align with inclusive outcomes, not just speed or cost.
 
 ---
 
-## 9. Systems Thinking: Experience as an Emergent Property
+## Systems Thinking: Experience as an Emergent Property
 
 Customer experience emerges from design, policy, marketing, data practices, and support.  
 Small misalignments compound into systemic exclusion.
 
 ---
 
-## 10. Indicators of Accessibility Maturity
+## Indicators of Accessibility Maturity
 
 ### High Maturity
 - Comparable experience measured and improved
@@ -121,7 +121,7 @@ Small misalignments compound into systemic exclusion.
 
 ---
 
-## Final Principle
+## Final Overarching Principle
 
 Accessibility maturity is proven not by compliance,  
 but by whether disabled customers consistently experience  
