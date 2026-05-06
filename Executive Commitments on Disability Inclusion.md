@@ -1,6 +1,6 @@
 # Executive Commitments on Disability Inclusion
 
-## 1. Foundations of Accessibility in Corporate Communication
+## Foundations of Accessibility in Corporate Communication
 Organisations must clearly articulate their objectives regarding disability inclusion. These objectives should align with brand values, mission statements, and cultural principles. Accessibility is positioned not only as a compliance requirement but as a cultural and strategic imperative.  
 
 **Prompts for framing commitments include:**
@@ -19,7 +19,7 @@ Organisations must clearly articulate their objectives regarding disability incl
 
 ---
 
-## 2. Human Resources and Workplace Culture
+## Human Resources and Workplace Culture
 Commitments often begin with HR policies that emphasise respect, diversity, and opportunity. Organisations pledge to remove barriers, stigmas, and taboos, fostering environments where employees of all abilities can succeed.  
 
 **Typical commitments include:**
@@ -39,7 +39,7 @@ Commitments often begin with HR policies that emphasise respect, diversity, and 
 
 ---
 
-## 3. Digital Accessibility and Customer Experience
+## Digital Accessibility and Customer Experience
 Organisations commit to improving digital accessibility, ensuring compliance with international standards, and embedding accessibility into product design.  
 
 **Key commitments include:**
@@ -61,7 +61,7 @@ Organisations commit to improving digital accessibility, ensuring compliance wit
 
 ---
 
-## 4. Governance, Engagement, and Awareness
+## Governance, Engagement, and Awareness
 Commitments extend to governance structures, awareness campaigns, and engagement with disability ambassadors. Organisations pledge to integrate disability inclusion into board-level agendas and diversity strategies.  
 
 **Examples of phrasing:**
@@ -79,7 +79,7 @@ Commitments extend to governance structures, awareness campaigns, and engagement
 
 ---
 
-## 5. Intersectionality and Broader Inclusion
+## Intersectionality and Broader Inclusion
 Organisations recognise that disability intersects with other identities such as gender, race, and sexual orientation. Commitments often include:  
 - Emphasising intersectionality in diversity strategies.  
 - Reducing stigma around mental health.  
@@ -91,7 +91,7 @@ Organisations recognise that disability intersects with other identities such as
 
 ---
 
-## 6. Continuous Improvement and Measurement
+## Continuous Improvement and Measurement
 Commitments stress the importance of measurement, evaluation, and continuous improvement. Organisations pledge to:  
 - Measure disability representation and inclusion.  
 - Benchmark practices externally.  
@@ -108,7 +108,7 @@ Commitments stress the importance of measurement, evaluation, and continuous imp
 - **Governance ↔ Intersectionality:** Board-level inclusion must reflect diverse perspectives.  
 - **Measurement ↔ Continuous Improvement:** Data-driven evaluation supports long-term progress.  
 
-## 7. Recruitment and Talent Acquisition
+## Recruitment and Talent Acquisition
 Recruitment commitments emphasise proactive outreach, inclusive hiring practices, and partnerships with disability-focused organisations. Organisations pledge to create pipelines that attract candidates with disabilities at all levels.
 
 **Key commitments include:**
@@ -127,7 +127,7 @@ Recruitment commitments emphasise proactive outreach, inclusive hiring practices
 
 ---
 
-## 8. Assistive Technology and Workplace Adjustments
+## Assistive Technology and Workplace Adjustments
 Commitments include identifying and implementing assistive technologies that enable employees with disabilities to work independently. Organisations pledge to streamline workplace adjustments and ensure processes are seamless.
 
 **Examples of phrasing:**
@@ -140,7 +140,7 @@ Commitments include identifying and implementing assistive technologies that ena
 
 ---
 
-## 9. Mental Health and Wellbeing
+## Mental Health and Wellbeing
 Organisations recognise that disability inclusion must encompass visible and non-visible disabilities, including mental health. Commitments often focus on reducing stigma, raising awareness, and providing support.
 
 **Key commitments include:**
@@ -159,7 +159,7 @@ Organisations recognise that disability inclusion must encompass visible and non
 
 ---
 
-## 10. Universal Design and Product Accessibility
+## Universal Design and Product Accessibility
 Commitments extend to product and service design, embedding accessibility principles from the outset. Organisations pledge to normalise universal design and ensure products are usable by all.
 
 **Examples of phrasing:**
@@ -172,7 +172,7 @@ Commitments extend to product and service design, embedding accessibility princi
 
 ---
 
-## 11. Supply Chain and Procurement
+## Supply Chain and Procurement
 Organisations embed disability inclusion into supply chains by requiring accessibility standards in procurement processes. Commitments include supporting disability-owned businesses and ensuring suppliers meet accessibility requirements.
 
 **Key commitments include:**
@@ -189,7 +189,7 @@ Organisations embed disability inclusion into supply chains by requiring accessi
 
 ---
 
-## 12. Employee Networks and Allyship
+## Employee Networks and Allyship
 Commitments highlight the importance of employee networks, ambassadors, and allyship. Organisations pledge to create spaces where employees with disabilities can shape inclusion strategies.
 
 **Examples of phrasing:**
@@ -202,7 +202,7 @@ Commitments highlight the importance of employee networks, ambassadors, and ally
 
 ---
 
-## 13. Measurement, Benchmarking, and Accountability
+## Measurement, Benchmarking, and Accountability
 Organisations commit to measuring disability inclusion, benchmarking externally, and reporting progress. Accountability is emphasised through board-level oversight and executive sponsorship.
 
 **Key commitments include:**
@@ -221,7 +221,7 @@ Organisations commit to measuring disability inclusion, benchmarking externally,
 
 ---
 
-## 14. Customer Accessibility and Service
+## Customer Accessibility and Service
 Commitments extend to customers, ensuring accessible experiences across physical, digital, and service channels. Organisations pledge to tailor services to diverse needs.
 
 **Examples of phrasing:**
@@ -234,7 +234,7 @@ Commitments extend to customers, ensuring accessible experiences across physical
 
 ---
 
-## 15. Culture of Inclusion and Belonging
+## Culture of Inclusion and Belonging
 Commitments emphasise fostering a culture where employees feel safe, valued, and able to bring their authentic selves to work. Organisations pledge to integrate inclusion into everyday practices.
 
 **Examples of phrasing:**
@@ -252,7 +252,7 @@ Commitments emphasise fostering a culture where employees feel safe, valued, and
 
 ---
 
-## 16. Continuous Learning and Co-Creation
+## Continuous Learning and Co-Creation
 Organisations commit to ongoing learning, co-creation with disability communities, and adapting to changing perspectives. This ensures inclusion evolves with societal needs.
 
 **Examples of phrasing:**
