@@ -1,4 +1,4 @@
-## 1. Embedding Inclusion into Design Management Practice
+## Embedding Inclusion into Design Management Practice
 
 ### Instruction  
 Act as a Design Project Manager embedding inclusion into project planning and delivery.
@@ -17,7 +17,7 @@ This approach prevents costly rework, reduces delivery risk, and ensures that ac
 
 ---
 
-## 2. Translating Values into Requirements
+## Translating Values into Requirements
 
 ### Instruction  
 Explain how a Design Project Manager should translate inclusive values into project requirements.
@@ -36,7 +36,7 @@ By framing inclusion as a requirement tied to user experience, teams become acco
 
 ---
 
-## 3. Inclusion as a Risk Management Strategy
+## Inclusion as a Risk Management Strategy
 
 ### Instruction  
 Describe how inclusive design affects project risk management.
@@ -54,7 +54,7 @@ A Design Project Manager should frame inclusion as a proactive risk mitigation s
 
 ---
 
-## 4. Sequencing Inclusive Activities
+## Sequencing Inclusive Activities
 
 ### Instruction  
 Explain how a Design Project Manager should sequence inclusive activities.
@@ -73,7 +73,7 @@ By aligning inclusion with the natural flow of the project, teams avoid bottlene
 
 ---
 
-## 5. Inclusive Design Reviews
+## Inclusive Design Reviews
 
 ### Instruction  
 Describe how design reviews should support inclusive outcomes.
@@ -91,7 +91,7 @@ A Design Project Manager should ensure that these criteria are consistently appl
 
 ---
 
-## 6. Managing Trade-offs Involving Inclusion
+## Managing Trade-offs Involving Inclusion
 
 ### Instruction  
 Explain how a Design Project Manager should manage trade-offs involving inclusion.
@@ -109,7 +109,7 @@ This approach ensures that decisions protect core user needs while allowing flex
 
 ---
 
-## 7. Inclusion and Delivery Efficiency
+## Inclusion and Delivery Efficiency
 
 ### Instruction  
 Describe how inclusion improves delivery efficiency.
@@ -127,7 +127,7 @@ A Design Project Manager should emphasise these efficiencies when advocating for
 
 ---
 
-## 8. Supporting Designers in Inclusive Practice
+## Supporting Designers in Inclusive Practice
 
 ### Instruction  
 Explain how a Design Project Manager should support designers.
@@ -145,7 +145,7 @@ Supportive management enables designers to produce thoughtful, high-quality work
 
 ---
 
-## 9. Documentation and Continuity
+## Documentation and Continuity
 
 ### Instruction  
 Describe how inclusive documentation supports project continuity.
@@ -163,7 +163,7 @@ This approach enables scalable and sustainable inclusion across projects.
 
 ---
 
-## 10. Inclusion and Stakeholder Confidence
+## Inclusion and Stakeholder Confidence
 
 ### Instruction  
 Explain how inclusive delivery supports stakeholder confidence.
@@ -181,7 +181,7 @@ Inclusion therefore strengthens credibility and trust.
 
 ---
 
-## 11. Evaluating Inclusive Success
+## Evaluating Inclusive Success
 
 ### Instruction  
 Describe how a Design Project Manager should evaluate success.
@@ -199,7 +199,7 @@ These measures reflect both quality and effectiveness.
 
 ---
 
-## 12. Sustaining Inclusion Through Process
+## Sustaining Inclusion Through Process
 
 ### Instruction  
 Summarise the Design Project Manager’s role in sustaining inclusion.
@@ -215,7 +215,7 @@ This ensures that:
 
 ---
 
-## 13. Managing Mid-Project Deprioritisation
+## Managing Mid-Project Deprioritisation
 
 ### Instruction  
 Explain why inclusion is often deprioritised mid-project and how to respond.
@@ -233,7 +233,7 @@ This ensures that inclusion is protected without disrupting delivery.
 
 ---
 
-## 14. Identifying Non-Negotiable Elements
+## Identifying Non-Negotiable Elements
 
 ### Instruction  
 Describe how to identify essential inclusive features.
@@ -251,7 +251,7 @@ This ensures minimum viable inclusion is maintained.
 
 ---
 
-## 15. Negotiating Scope Without Losing Inclusion
+## Negotiating Scope Without Losing Inclusion
 
 ### Instruction  
 Explain how to reduce scope while preserving inclusion.
@@ -267,7 +267,7 @@ This approach allows projects to adapt without compromising accessibility.
 
 ---
 
-## 16. Handling Budget and Timeline Constraints
+## Handling Budget and Timeline Constraints
 
 ### Instruction  
 Explain how to respond to budget or timeline pressure.
@@ -283,7 +283,7 @@ This ensures efficient use of limited resources.
 
 ---
 
-## 17. Transparent Communication of Trade-offs
+## Transparent Communication of Trade-offs
 
 ### Instruction  
 Describe how to communicate inclusion decisions.
@@ -299,7 +299,7 @@ This prevents misunderstandings and maintains accountability.
 
 ---
 
-## 18. Protecting Disabled Audiences
+## Protecting Disabled Audiences
 
 ### Instruction  
 Explain how to protect disabled users when inclusion is reduced.
@@ -315,7 +315,7 @@ This protects both users and brand integrity.
 
 ---
 
-## 19. Documentation and Recovery Planning
+## Documentation and Recovery Planning
 
 ### Instruction  
 Describe how to document and recover from reduced inclusion.
@@ -331,7 +331,7 @@ This ensures inclusion is restored over time.
 
 ---
 
-## 20. Inclusion as Leadership Practice
+## Inclusion as Leadership Practice
 
 ### Instruction  
 Summarise the leadership role in inclusive design management.
