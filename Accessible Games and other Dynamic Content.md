@@ -479,6 +479,3 @@ market reach.
 -   Respect for user autonomy builds trust.
 -   Inclusive design is a long-term brand investment.
 
-------------------------------------------------------------------------
-
-## End of Knowledge Base
