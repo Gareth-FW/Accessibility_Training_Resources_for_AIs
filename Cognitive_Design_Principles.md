@@ -22,7 +22,7 @@ The concept of both affordances and Signifiers are closely related to that of a 
 
 There should always be a strong relationship between the perception of the need to take any action and the action itself.
 
-## 3\. Simplicity
+## Simplicity
 
 There is such a thing as too much information and this can either be an issue of volume, or information provided in too complex a fashion. In general, visual and UX design best practice strives to simplify both presentation and interactions.
 
