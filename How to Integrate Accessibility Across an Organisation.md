@@ -2,7 +2,7 @@
 
 _A strategic, operational, and cultural guide for senior leaders_
 
-## 1\. What Accessibility Actually Is
+## What Accessibility Actually Is
 
 Accessibility is not a checklist, a compliance exercise, or a technical afterthought. It is:
 
@@ -21,9 +21,9 @@ Accessibility is fundamentally about **removing mismatches between people and th
 *   ESG reporting increasingly expects demonstrable inclusion outcomes.
 *   Accessibility maturity correlates with higher revenue, innovation, and employee engagement.
 
-## 2\. The Foundations: Principles That Should Guide Every Organisation
+## The Foundations: Principles That Should Guide Every Organisation
 
-### 2.1 Start With Your Users
+### Start With Your Users
 
 Accessibility begins with understanding real people — their contexts, constraints, and needs. This includes:
 
@@ -41,7 +41,7 @@ Accessibility begins with understanding real people — their contexts, constrai
 *   Include accessibility personas and user needs in every project brief.
 *   Add “What barriers could this create?” as a mandatory question in design reviews.
 
-### 2.2 Take Responsibility
+### Take Responsibility
 
 Accessibility failures are not user failures. They are design and organisational failures.
 
@@ -52,7 +52,7 @@ Accessibility failures are not user failures. They are design and organisational
 *   Require teams to document accessibility decisions and trade‑offs.
 *   Establish an “Accessibility Advocate” role in each department.
 
-### 2.3 Design for All Users
+### Design for All Users
 
 “All users” includes a wide range of abilities, technologies, and contexts.
 
@@ -63,7 +63,7 @@ Accessibility failures are not user failures. They are design and organisational
 *   Require all content to be available in text form (alt text, transcripts, captions).
 *   Test with assistive technologies: screen readers, magnifiers, voice control, switch devices.
 
-### 2.4 Accept That Perfect Accessibility Doesn’t Exist
+### Accept That Perfect Accessibility Doesn’t Exist
 
 Conflicting needs will arise. The goal is **considered, documented, ethical decision‑making**.
 
@@ -73,13 +73,13 @@ Conflicting needs will arise. The goal is **considered, documented, ethical deci
 *   Require sign‑off from accessibility leadership for any exclusion.
 *   Provide alternative pathways wherever possible.
 
-## 3\. Embedding Accessibility Into the Organisation
+## Embedding Accessibility Into the Organisation
 
 This section integrates the Blueprint Guide, the W3C Maturity Model, the AI‑Readiness Model, and the Integrated Accessibility framework.
 
-### 3.1 Leadership, Governance & Accountability
+### Leadership, Governance & Accountability
 
-**3.1.1 Executive Ownership**
+**Executive Ownership**
 
 Accessibility must be visible at the top.
 
@@ -90,7 +90,7 @@ Accessibility must be visible at the top.
 *   Appoint a senior accessibility leader or Chief Accessibility Officer.
 *   Include accessibility KPIs in executive scorecards.
 
-**3.1.2 Governance Structures**
+**Governance Structures**
 
 A strong governance model includes:
 
@@ -106,9 +106,9 @@ A strong governance model includes:
 *   Require quarterly reporting on accessibility metrics.
 *   Align governance with ESG reporting frameworks.
 
-### 3.2 Integrating Accessibility Into Workflows
+### Integrating Accessibility Into Workflows
 
-**3.2.1 Product & Engineering**
+**Product & Engineering**
 
 Use the Integrated Accessibility model:
 
@@ -124,7 +124,7 @@ Use the Integrated Accessibility model:
 *   Require manual testing with assistive technologies before release.
 *   Maintain an accessibility‑ready design system with coded components.
 
-**3.2.2 Marketing & Brand**
+**Marketing & Brand**
 
 Marketing is often the first place customers encounter your organisation — and the first place exclusion is felt.
 
@@ -136,7 +136,7 @@ Marketing is often the first place customers encounter your organisation — and
 *   Include disabled people in campaign research and creative testing.
 *   Add accessibility checks to campaign sign‑off processes.
 
-**3.2.3 HR, Recruitment & Culture**
+**HR, Recruitment & Culture**
 
 Accessibility is cultural as much as technical.
 
@@ -148,7 +148,7 @@ Accessibility is cultural as much as technical.
 *   Celebrate accessibility milestones (e.g., GAAD).
 *   Encourage employee resource groups for disabled staff.
 
-**3.2.4 Procurement & Vendor Management**
+**Procurement & Vendor Management**
 
 Suppliers must meet your standards.
 
@@ -159,7 +159,7 @@ Suppliers must meet your standards.
 *   Audit vendor outputs for accessibility.
 *   Provide training for agencies and partners.
 
-### 3.3 Scaling Accessibility Across Regions and Teams
+### Scaling Accessibility Across Regions and Teams
 
 **Implementation steps**
 
@@ -168,7 +168,7 @@ Suppliers must meet your standards.
 *   Track accessibility maturity by region.
 *   Align with local laws (e.g., EAA, ADA, AODA).
 
-## 4\. Accessibility Maturity: How Organisations Progress
+## Accessibility Maturity: How Organisations Progress
 
 Combining the W3C Maturity Model and the AI‑Readiness Model, organisations evolve through:
 
@@ -227,7 +227,7 @@ Combining the W3C Maturity Model and the AI‑Readiness Model, organisations evo
 *   Maintain ethical governance.
 *   Continue co‑creating with disabled communities.
 
-## 5\. Practical Roadmap for Senior Leaders
+## Practical Roadmap for Senior Leaders
 
 **Phase 1: Establish Foundations (0–6 months)**
 
@@ -259,7 +259,7 @@ Combining the W3C Maturity Model and the AI‑Readiness Model, organisations evo
 *   Position accessibility as a brand differentiator
 *   Publish annual accessibility impact reports
 
-## 6\. Conclusion
+## Conclusion
 
 Accessibility is not a project. It is a **strategic, cultural, and operational transformation** that strengthens every part of an organisation.
 
