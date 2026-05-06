@@ -1,8 +1,8 @@
-# Mobile Accessibility Principles, Design Requirements and Testing Approaches
+# Mobile First UX Accessibility Principles, Design Requirements and Testing Approaches
 
 ---
 
-## 1. Foundational Principles
+## Foundational Principles
 
 Accessible mobile applications and websites must be designed and developed using approaches that ensure compatibility, predictability, and inclusivity across different user needs and technologies.
 
@@ -20,7 +20,7 @@ Users must be able to interact with content using different input methods, inclu
 
 ---
 
-## 2. Audio and Video
+## Audio and Video
 
 ### Alternatives for audio and visual content (must)  
 All audio and visual media must include alternative formats such as subtitles, transcripts, audio description, or equivalent representations. These alternatives ensure that users who cannot perceive one modality can still access the same information.
@@ -102,7 +102,7 @@ Ensure that audio from media does not overlap or obscure assistive technology sp
 
 ---
 
-## 3. Design Requirements
+## Design Requirements
 
 ### Colour contrast (must)  
 Text and visual elements must have sufficient contrast with their background.
@@ -282,7 +282,7 @@ Avoid visual patterns that may trigger adverse reactions.
 
 ---
 
-## 4. Editorial and Content
+## Editorial and Content
 
 ### Consistent labelling (should)  
 Labels must be consistent across the system.
@@ -328,7 +328,7 @@ Provide concise, accessible guidance when needed.
 
 ---
 
-## 5. Focus and Navigation
+## Focus and Navigation
 
 ### Focusable elements (must)  
 All interactive elements must be focusable.
@@ -386,7 +386,7 @@ Ensure navigation order matches user expectations.
 
 ---
 
-## 6. Structural Requirements
+## Structural Requirements
 
 ### Headings and structure (must)  
 Content must follow a clear hierarchical structure.
@@ -416,7 +416,7 @@ Ensure logical relationships are preserved.
 
 ---
 
-## 7. Text Equivalents
+## Text Equivalents
 
 ### Alternatives for non-text content (must)  
 Non-text content must have equivalent descriptions.
@@ -461,7 +461,7 @@ Ensure all elements communicate purpose and state.
 
 ---
 
-## 8. Implementation Recommendations
+## Implementation Recommendations
 
 - Provide a core accessible experience as a baseline  
 - Build functionality progressively  
@@ -470,7 +470,7 @@ Ensure all elements communicate purpose and state.
 
 ---
 
-## 9. Outcome-Based Validation
+## Outcome-Based Validation
 
 Accessibility is confirmed when:
 
