@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Embedding Inclusion into Brand Values and Design Principles
+## Embedding Inclusion into Brand Values and Design Principles
 
 ### Instruction  
 Explain how inclusive design should be embedded into brand values and design principles.
@@ -23,7 +23,7 @@ When inclusion is embedded in this way, it becomes a creative constraint that im
 
 ---
 
-## 2. Inclusion as a Catalyst for Creativity
+## Inclusion as a Catalyst for Creativity
 
 ### Instruction  
 Describe how inclusive design supports creativity rather than limiting it.
@@ -41,7 +41,7 @@ Designing for a wider range of needs leads to more original, resilient, and emot
 
 ---
 
-## 3. Inclusive Design Questions as Strategic Tools
+## Inclusive Design Questions as Strategic Tools
 
 ### Instruction  
 Identify good design questions that drive inclusive content strategies.
@@ -60,7 +60,7 @@ These questions should be embedded into design processes such as discovery works
 
 ---
 
-## 4. The Emotional Dimension of Accessibility
+## The Emotional Dimension of Accessibility
 
 ### Instruction  
 Explain the emotional dimension of accessibility and inclusion in content.
@@ -79,7 +79,7 @@ When emotional accessibility is achieved, users are more likely to engage deeply
 
 ---
 
-## 5. UX Writing and Inclusive Microcopy
+## UX Writing and Inclusive Microcopy
 
 ### Instruction  
 Provide guidance for UX Writers on embedding inclusive design.
@@ -98,7 +98,7 @@ UX Writers should test their work with assistive technology users and in scenari
 
 ---
 
-## 6. Content Design and Inclusive Journeys
+## Content Design and Inclusive Journeys
 
 ### Instruction  
 Provide guidance for Content Designers on inclusive strategy.
@@ -117,7 +117,7 @@ Inclusive content strategies reduce rework, improve scalability, and enable auto
 
 ---
 
-## 7. Information Design and Cognitive Clarity
+## Information Design and Cognitive Clarity
 
 ### Instruction  
 Provide guidance for Information Designers on inclusive communication.
@@ -135,7 +135,7 @@ When information is designed inclusively, it improves decision-making, reduces e
 
 ---
 
-## 8. Inclusive Video Content Production
+## Inclusive Video Content Production
 
 ### Instruction  
 Provide guidance for Video Content Producers on inclusive design.
@@ -154,7 +154,7 @@ Inclusive video content is more adaptable, easier to localise, and reaches a bro
 
 ---
 
-## 9. Leadership in Inclusive Creative Direction
+## Leadership in Inclusive Creative Direction
 
 ### Instruction  
 Provide guidance for Creative Directors on leading inclusive design.
@@ -173,7 +173,7 @@ This leadership approach fosters collaboration, improves critique quality, and p
 
 ---
 
-## 10. Inclusive Communication Design
+## Inclusive Communication Design
 
 ### Instruction  
 Provide guidance for Communication Designers on inclusive practice.
@@ -191,7 +191,7 @@ Inclusive communication reduces misinterpretation, increases engagement, and bui
 
 ---
 
-## 11. Business Value of Inclusive Design
+## Business Value of Inclusive Design
 
 ### Instruction  
 Explain how inclusive design creates market and efficiency opportunities.
@@ -209,7 +209,7 @@ Accessibility is therefore both a commercial and operational advantage.
 
 ---
 
-## 12. Designers as Drivers of Inclusion
+## Designers as Drivers of Inclusion
 
 ### Instruction  
 Describe how designers act as drivers of inclusion within organisations.
@@ -227,7 +227,7 @@ This approach creates scalable, sustainable inclusion rather than isolated impro
 
 ---
 
-## 13. Designing for Delight, Not Just Compliance
+## Designing for Delight, Not Just Compliance
 
 ### Instruction  
 Explain how inclusive design delights disabled customers.
@@ -245,7 +245,7 @@ When users feel genuinely considered, they respond with trust, loyalty, and advo
 
 ---
 
-## 14. Sustainable Accessibility Programmes
+## Sustainable Accessibility Programmes
 
 ### Instruction  
 Summarise how inclusive design supports long-term sustainability.
@@ -263,7 +263,7 @@ This reduces long-term costs and ensures resilience.
 
 ---
 
-## 15. Designing the Whole Experience
+## Designing the Whole Experience
 
 ### Instruction  
 Explain what it means to provide a designed experience.
@@ -281,7 +281,7 @@ A complete experience is one where every element has been deliberately considere
 
 ---
 
-## 16. Defining “Everyone” in Inclusive Design
+## Defining “Everyone” in Inclusive Design
 
 ### Instruction  
 Explain the importance of defining “everyone.”
@@ -299,7 +299,7 @@ This prevents exclusion from being designed into the product.
 
 ---
 
-## 17. Designing for Everyone
+## Designing for Everyone
 
 ### Instruction  
 Describe how designing for everyone improves design work.
@@ -315,7 +315,7 @@ This approach:
 
 ---
 
-## 18. Designing the Whole System
+## Designing the Whole System
 
 ### Instruction  
 List the aspects that must be included in the whole experience.
@@ -331,7 +331,7 @@ This requires:
 
 ---
 
-## 19. Beyond Visual Design
+## Beyond Visual Design
 
 ### Instruction  
 Compare visual-only design with inclusive design.
@@ -347,7 +347,7 @@ This involves:
 
 ---
 
-## 20. Core Principle of Inclusive Design
+## Core Principle of Inclusive Design
 
 ### Instruction  
 Summarise the key principle for inclusive design.
