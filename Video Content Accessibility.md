@@ -2,10 +2,10 @@
 
 ---
 
-## 1. Visual Accessibility for People with Visual Impairments
+## Accessibility for People with Vision Impairments
 
 ### Instruction  
-Explain the key principles for making visual content accessible to people with visual impairments.
+Explain the key principles for making visual content accessible to people with vision impairments.
 
 ### Explanation  
 
@@ -17,7 +17,7 @@ A practical methodology for validating visual accessibility is to test all graph
 
 ---
 
-## 2. Audio Accessibility for People with Hearing Impairments
+## Audio Accessibility for People with Hearing Impairments
 
 ### Instruction  
 Describe the key considerations for making audio content accessible to people with hearing impairments.
@@ -32,7 +32,7 @@ Production teams must ensure that audio is mixed to prioritise speech clarity ac
 
 ---
 
-## 3. Colour and Contrast in Graphics
+## Colour and Contrast in Graphics
 
 ### Instruction  
 What are the best practices for using colour and contrast in graphics for accessibility?
@@ -49,7 +49,7 @@ A robust validation method is to review graphics in monochrome to confirm that a
 
 ---
 
-## 4. Handling Foreign Language Contributions
+## Handling Foreign Language Contributions
 
 ### Instruction  
 Explain how to handle foreign language contributions for accessibility.
@@ -64,7 +64,7 @@ This approach ensures that accessibility is maintained without compromising edit
 
 ---
 
-## 5. Planning and Recording Audio Content
+## Planning and Recording Audio Content
 
 ### Instruction  
 What are the best practices for planning and recording audio content?
@@ -79,7 +79,7 @@ Where multiple speakers are present, separate microphones and recording tracks s
 
 ---
 
-## 6. Maximising Dialogue Clarity
+## Maximising Dialogue Clarity
 
 ### Instruction  
 How should narration and dialogue be handled to maximise audibility?
@@ -94,7 +94,7 @@ Performers and contributors should be directed to maintain clear articulation, a
 
 ---
 
-## 7. Final Sound Mix Accessibility
+## Final Sound Mix Accessibility
 
 ### Instruction  
 What are the key considerations for creating an accessible final sound mix?
@@ -109,7 +109,7 @@ Consistency across programmes is essential to prevent abrupt changes in volume t
 
 ---
 
-## 8. Background Music and Sound Effects
+## Background Music and Sound Effects
 
 ### Instruction  
 Provide guidelines for using background music and sound effects.
@@ -124,7 +124,7 @@ A clear separation between foreground (speech) and background (music and effects
 
 ---
 
-## 9. Identifying Contributors
+## Identifying Contributors
 
 ### Instruction  
 How should contributors be identified for visually impaired audiences?
@@ -137,7 +137,7 @@ In situations where verbal identification may disrupt the flow, production teams
 
 ---
 
-## 10. Accessibility for Deaf Children
+## Accessibility for Deaf Children
 
 ### Instruction  
 What special considerations apply for deaf children?
@@ -150,7 +150,7 @@ Production teams must ensure that speakers’ faces are visible and unobstructed
 
 ---
 
-## 11. Understanding Hearing Loss
+## Understanding Hearing Loss
 
 ### Instruction  
 Explain why increasing volume is not sufficient for accessibility.
@@ -163,7 +163,7 @@ Increasing volume amplifies all frequencies, including background noise, which c
 
 ---
 
-## 12. Dual-Channel Communication
+## Dual-Channel Communication
 
 ### Instruction  
 What information should be conveyed both visually and verbally?
@@ -176,7 +176,7 @@ For complex visuals such as maps or charts, it may not be possible to convey all
 
 ---
 
-## 13. Audience Demographics and Accessibility
+## Audience Demographics and Accessibility
 
 ### Instruction  
 Describe the demographic context for accessibility.
@@ -189,7 +189,7 @@ The prevalence of colour vision deficiency and age-related hearing loss further 
 
 ---
 
-## 14. Microphone Techniques
+## Microphone Techniques
 
 ### Instruction  
 What microphone considerations are important?
@@ -202,7 +202,7 @@ When multiple speakers are present, care must be taken to prevent microphones fr
 
 ---
 
-## 15. Accessible Promotional Content
+## ccessible Promotional Content
 
 ### Instruction  
 How should promotional content be made accessible?
@@ -215,7 +215,7 @@ Audio clarity must also be maintained in promotional materials, following the sa
 
 ---
 
-## 16. Weather Forecast Accessibility
+## Weather Forecast Accessibility
 
 ### Instruction  
 What are best practices for weather forecasting accessibility?
@@ -228,7 +228,7 @@ All visual elements, such as symbols and maps, must be described verbally to ens
 
 ---
 
-## 17. Designing Accessible Graphics
+## Designing Accessible Graphics
 
 ### Instruction  
 How should graphics be designed to avoid accessibility issues?
@@ -241,7 +241,7 @@ Redundancy techniques must be applied so that information is not dependent on co
 
 ---
 
-## 18. Reviewing Dialogue Before Final Mix
+## Reviewing Dialogue Before Final Mix
 
 ### Instruction  
 What should be considered when reviewing dialogue clarity?
@@ -254,10 +254,10 @@ Visual cues such as lip visibility should also be considered, particularly in dr
 
 ---
 
-## 19. Managing Sound Levels Across Broadcasts
+## Managing Sound Levels Accross a Collection or Assets
 
 ### Instruction  
-How should sound levels be managed across a broadcast schedule?
+How should sound levels be managed across several related recordings?
 
 ### Explanation  
 
