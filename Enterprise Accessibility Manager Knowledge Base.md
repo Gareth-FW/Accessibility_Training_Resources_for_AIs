@@ -19,7 +19,7 @@ This document reframes them into a proactive management model.
 
 ---
 
-# 1. The Accessibility Management Model: POUR + S
+# The Accessibility Management Model: POUR + S
 
 Traditional accessibility frameworks focus on **POUR**:
 
@@ -38,7 +38,7 @@ Accessibility maturity requires all five.
 
 ---
 
-# 2. Regulatory Context: The European Accessibility Act (EAA)
+# Regulatory Context: The European Accessibility Act (EAA)
 
 The EAA shifts accessibility from guideline-based conformance to **functional user outcomes**.
 
@@ -71,7 +71,7 @@ It is about ensuring **at least one complete mode of operation** works for each 
 
 ---
 
-# 3. Inclusive Design as a Strategic Discipline
+# Inclusive Design as a Strategic Discipline
 
 Inclusive design places people at the heart of the design process.
 
@@ -95,7 +95,7 @@ Wheelchair access is not an upgrade. It is the base level. The same applies to d
 
 ---
 
-# 4. Perceivable
+# Perceivable
 
 Information must be available in ways users can process.
 
@@ -121,7 +121,7 @@ The EAA requires information to be available via more than one sensory channel.
 
 ---
 
-# 5. Operable
+# Operable
 
 Users must be able to control and navigate interfaces using different input methods.
 
@@ -148,7 +148,7 @@ Mobile guidance reinforces platform standards and native control usage.
 
 ---
 
-# 6. Understandable
+# Understandable
 
 If users can perceive and operate an interface but cannot understand it, accessibility has failed.
 
@@ -175,7 +175,7 @@ The EAA explicitly includes simplified operation for users with limited cognitio
 
 ---
 
-# 7. Robust
+# Robust
 
 Robust systems work across platforms, assistive technologies and future technologies.
 
@@ -199,7 +199,7 @@ Policy models show accessibility must be embedded from the start and continuousl
 
 ---
 
-# 8. Satisfaction (The Fifth Principle)
+# Satisfaction (The Fifth Overarching Principle)
 
 Compliance without satisfaction leads to abandonment.
 
@@ -211,6 +211,7 @@ Satisfaction considers:
 - Confidence
 - Trust
 - Emotional response
+- Activity inclusion
 
 ### Evidence-Based Accessibility
 
@@ -230,7 +231,7 @@ If the answer is no, satisfaction is failing.
 
 ---
 
-# 9. Embedding Accessibility in Governance
+# Embedding Accessibility in Governance
 
 Accessibility should be:
 
@@ -258,7 +259,7 @@ Accessibility should be:
 
 ---
 
-# 10. Practical Testing Maturity Model
+# Practical Testing Maturity Model
 
 Accessibility capability evolves:
 
@@ -279,7 +280,7 @@ Testing must include:
 
 ---
 
-# 11. From Compliance to Culture
+# From Compliance to Culture
 
 Accessibility is not a checklist.
 
@@ -296,7 +297,7 @@ Inclusive design improves environments for everyone.
 
 ---
 
-# 12. The Accessibility Manager’s Strategic Checklist
+# The Accessibility Manager’s Strategic Checklist
 
 ## Strategy
 
@@ -332,8 +333,7 @@ Accessibility excellence is achieved when:
 - Interfaces are Operable
 - Content is Understandable
 - Code is Robust
-- Users are Satisfied
+- Customers are Satisfied
 
 When all five are met, accessibility is no longer a compliance exercise.
-
 It becomes good design.
