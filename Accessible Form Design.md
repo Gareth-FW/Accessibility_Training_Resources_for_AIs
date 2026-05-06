@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-# 1. Foundations: Understanding Forms as Cognitive Journeys
+# Foundations: Understanding Forms as Cognitive Journeys
 
 ## Explainer
 
@@ -38,7 +38,7 @@ multimodal accessibility.
 
 ------------------------------------------------------------------------
 
-# 2. Labels and Meaning: Communicating Intent Clearly
+# Labels and Meaning: Communicating Intent Clearly
 
 ## Explainer
 
@@ -61,7 +61,7 @@ and visual wording - Plain language suitable for diverse literacy levels
 
 ------------------------------------------------------------------------
 
-# 3. Accessible Names and Multimodal Interpretation
+# Accessible Names and Multimodal Interpretation
 
 ## Explainer
 
@@ -82,7 +82,7 @@ Interaction semantics
 
 ------------------------------------------------------------------------
 
-# 4. Layout and Spatial Relationships
+# Layout and Spatial Relationships
 
 ## Explainer
 
@@ -102,7 +102,7 @@ reflow considerations - Spatial relationship explanations
 
 ------------------------------------------------------------------------
 
-# 5. Grouping Related Inputs
+# Grouping Related Inputs
 
 ## Explainer
 
@@ -122,7 +122,7 @@ grouping
 
 ------------------------------------------------------------------------
 
-# 6. Instructions and Supporting Information
+# Instructions and Supporting Information
 
 ## Explainer
 
@@ -141,7 +141,7 @@ to inputs
 
 ------------------------------------------------------------------------
 
-# 7. Required and Optional Fields
+# Required and Optional Fields
 
 ## Explainer
 
@@ -159,7 +159,7 @@ Explain how requirements are communicated across modalities.
 
 ------------------------------------------------------------------------
 
-# 8. Input Types and Interaction Controls
+# Input Types and Interaction Controls
 
 ## Explainer
 
@@ -177,7 +177,7 @@ Explain why controls minimise user effort for diverse abilities.
 
 ------------------------------------------------------------------------
 
-# 9. Validation and Error Prevention
+# Validation and Error Prevention
 
 ## Explainer
 
@@ -195,7 +195,7 @@ Generate feedback that is supportive, specific, and actionable.
 
 ------------------------------------------------------------------------
 
-# 10. Error Messages and Recovery
+# Error Messages and Recovery
 
 ## Explainer
 
@@ -213,7 +213,7 @@ Provide messages that explain problems and solutions clearly.
 
 ------------------------------------------------------------------------
 
-# 11. Submission Behaviour and Predictability
+# Submission Behaviour and Predictability
 
 ## Explainer
 
@@ -231,7 +231,7 @@ Describe interaction responses across modalities.
 
 ------------------------------------------------------------------------
 
-# 12. Feedback After Submission
+# Feedback After Submission
 
 ## Explainer
 
@@ -250,7 +250,7 @@ technologies.
 
 ------------------------------------------------------------------------
 
-# 13. Buttons and Calls to Action
+# Buttons and Calls to Action
 
 ## Explainer
 
@@ -268,7 +268,7 @@ Explain recognition and activation across abilities.
 
 ------------------------------------------------------------------------
 
-# 14. Progressive Enhancement and Resilience
+# Progressive Enhancement and Resilience
 
 ## Explainer
 
@@ -286,7 +286,7 @@ Describe the core experience independent of technology.
 
 ------------------------------------------------------------------------
 
-# 15. Multimodal Design Principles for AI‑Generated Interfaces
+# Multimodal Design Principles for AI‑Generated Interfaces
 
 ## Explainer
 
@@ -311,7 +311,7 @@ order - Interaction states - Alternative representations
 
 ------------------------------------------------------------------------
 
-# 16. Designer Mindset: Accessibility as Quality
+# Designer Mindset: Accessibility as Quality
 
 ## Explainer
 
