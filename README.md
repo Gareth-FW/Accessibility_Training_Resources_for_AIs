@@ -94,7 +94,7 @@ All guidance is designed to support:
 
 ## How to Use
 
-For AI Training
+**For AI Training****
 Use the structured datasets for:
 
 - supervised fine-tuning
@@ -102,62 +102,77 @@ Use the structured datasets for:
 - evaluation benchmarks
 
 
-For RAG Systems
+**For RAG Systems**
 Index the knowledge base and structured data
+
 Use semantic retrieval to:
-ground responses in accessibility requirements
-reduce hallucination
-improve consistency
-For Agent-Based Systems
+- ground responses in accessibility requirements
+- reduce hallucination
+- improve consistency
+
+**For Agent-Based Systems**
+
 Use the atomic units as:
-task definitions
-decision rules
-remediation instructions
-Intended Users
+- task definitions
+- decision rules
+- remediation instructions
+- design requirements
+- policy generation
+- business consultancy
+
+**Intended Users**
 
 This repository is designed for:
 
-AI engineers and ML practitioners
-accessibility specialists
-product and UX teams
-QA and testing teams
-organisations embedding accessibility into AI workflows
-Limitations
+- AI engineers and ML practitioners
+- accessibility specialists
+- accessibility programme managers
+- product and UX teams
+- branding teams
+- content producers
+- UX design leadership
+- QA and testing teams
+- organisations embedding accessibility into AI workflows
+- Comms and diversity teams
+
+**Limitations**
 These resources do not replace legal advice or formal certification processes
 Accessibility outcomes depend on correct integration and usage
 AI systems must still be validated using:
-manual testing
-assistive technologies
-real user feedback
-Contribution Guidelines
+- manual testing
+- assistive technologies
+- real user feedback
+
+**Contribution Guidelines**
 
 Contributions should maintain:
+- structural consistency
+- atomic decomposition of content
+- clear, unambiguous language
+- alignment with accessibility best practices
 
-structural consistency
-atomic decomposition of content
-clear, unambiguous language
-alignment with accessibility best practices
+**Avoid:**
 
-Avoid:
+- introducing ambiguity or narrative-only content
+- adding organisation-specific references
+- including unnecessary technical complexity
 
-introducing ambiguity or narrative-only content
-adding organisation-specific references
-including unnecessary technical complexity
-Licensing
+## Licensing
 
 This repository is licensed under the terms specified in the LICENSE file.
 
 If using these resources:
 
-ensure proper attribution (where required)
-respect any non-commercial or usage restrictions
-do not misrepresent outputs as certified accessibility compliance
-Vision
+- ensure proper attribution (where required)
+- respect any non-commercial or usage restrictions
+- do not misrepresent outputs as certified accessibility compliance
+
+## Vision
 
 This repository supports the development of AI systems that move beyond compliance checking toward:
 
-continuous inclusion evaluation
-proactive accessibility integration
-scalable inclusive design practices
+- continuous inclusion evaluation
+- proactive accessibility integration
+- scalable inclusive design practices
 
 The goal is to enable AI to act as a reliable accessibility partner, improving outcomes without requiring constant specialist intervention.
