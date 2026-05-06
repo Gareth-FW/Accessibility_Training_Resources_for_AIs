@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-# 1. Foundations of Structural Accessibility
+# Foundations of Structural Accessibility
 
 ## Explainer
 
@@ -72,7 +72,7 @@ multiple ways including sequential navigation."
 
 ------------------------------------------------------------------------
 
-# 2. Hierarchical Headings and Content Organisation
+# Hierarchical Headings and Content Organisation
 
 ## Explainer
 
@@ -121,7 +121,7 @@ understandable when read sequentially or non-sequentially."
 
 ------------------------------------------------------------------------
 
-# 3. Containers, Regions, and Grouping
+# Containers, Regions, and Grouping
 
 ## Explainer
 
@@ -168,7 +168,7 @@ as visually."
 
 ------------------------------------------------------------------------
 
-# 4. Landmarks and Orientation
+# Landmarks and Orientation
 
 ## Explainer
 
@@ -209,7 +209,7 @@ screens."
 
 ------------------------------------------------------------------------
 
-# 5. Navigation and Route Changes
+# Navigation and Route Changes
 
 ## Explainer
 
@@ -250,7 +250,7 @@ text and structure."
 
 ------------------------------------------------------------------------
 
-# 6. Roles, Meaning, and Interaction Semantics
+# Roles, Meaning, and Interaction Semantics
 
 ## Explainer
 
@@ -291,7 +291,7 @@ context."
 
 ------------------------------------------------------------------------
 
-# 7. Multi-Modal Accessibility Design
+# Multi-Modal Accessibility Design
 
 ## Explainer
 
@@ -331,7 +331,7 @@ single sensory channel."
 
 ------------------------------------------------------------------------
 
-# 8. Consistency and Predictability
+# Consistency and Predictability
 
 ## Explainer
 
@@ -367,7 +367,7 @@ behaviours remain stable throughout the experience."
 
 ------------------------------------------------------------------------
 
-# 9. Writing Effective Prompts for Accessible Design Outcomes
+# Writing Effective Prompts for Accessible Design Outcomes
 
 ## Explainer
 
@@ -395,7 +395,7 @@ accessibility was addressed, enabling evaluation and refinement.
 
 ------------------------------------------------------------------------
 
-# 10. Using This Knowledge Base in a GPT System
+# Using This Knowledge Base in a GPT System
 
 This knowledge base should be used to guide a generative system to:
 
@@ -406,4 +406,4 @@ This knowledge base should be used to guide a generative system to:
 -   Provide prompt improvement suggestions
 
 The system should prioritise inclusion, clarity, and user orientation
-over compliance language.
+over compliance.
