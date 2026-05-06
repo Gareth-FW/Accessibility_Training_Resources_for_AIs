@@ -1,2 +1,2 @@
 # Accessibility_Training_Resources_for_AIs
-Free resources for use in training LLMs about Inclusive Design Thinking
+Free resources for use in training LLMs about Inclusive Design Thinking, Principles, Practices and Management.
