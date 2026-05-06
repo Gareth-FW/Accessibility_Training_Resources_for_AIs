@@ -1,10 +1,10 @@
 # Accessibility in the Employee Lifecycle
 
-**Training Document: Designing Inclusive Employee Experiences from Hire to Exit**
+**Designing Inclusive Employee Experiences from Hire to Exit**
 
 ---
 
-# 1. Introduction: Accessibility Across the Employee Lifecycle
+# Introduction: Accessibility Across the Employee Lifecycle
 
 ## Purpose
 
@@ -26,7 +26,7 @@ Accessibility must be treated as a system spanning all lifecycle stages, with ea
 
 ---
 
-# 2. Lifecycle Overview
+# Lifecycle Overview
 
 The employee lifecycle can be understood as six interconnected phases:
 
@@ -43,7 +43,7 @@ The lifecycle should not be treated as a linear process but as a continuous syst
 
 ---
 
-# 3. Phase 1: Awareness and Attraction
+# Phase 1: Awareness and Attraction
 
 ## Definition
 
@@ -73,7 +73,7 @@ Accessible and credible employer branding increases the size and diversity of th
 
 ---
 
-# 4. Phase 2: Recruitment and Hiring
+# Phase 2: Recruitment and Hiring
 
 ## Definition
 
@@ -101,7 +101,7 @@ Removing barriers at this stage prevents the loss of qualified candidates, impro
 
 ---
 
-# 5. Phase 3: Onboarding and Early Experience
+# Phase 3: Onboarding and Early Experience
 
 ## Definition
 
@@ -129,7 +129,7 @@ Effective onboarding reduces time to productivity, improves employee confidence,
 
 ---
 
-# 6. Phase 4: Day-to-Day Work and Enablement
+# Phase 4: Day-to-Day Work and Enablement
 
 ## Definition
 
@@ -157,7 +157,7 @@ Accessible systems improve efficiency, reduce errors, and increase consistency a
 
 ---
 
-# 7. Phase 5: Career Development and Progression
+# Phase 5: Career Development and Progression
 
 ## Definition
 
@@ -185,7 +185,7 @@ Inclusive development processes improve retention, increase engagement, and ensu
 
 ---
 
-# 8. Phase 6: Exit and Alumni Engagement
+# Phase 6: Exit and Alumni Engagement
 
 ## Definition
 
@@ -213,7 +213,7 @@ Accessible exit processes provide critical insights into organisational performa
 
 ---
 
-# 9. Cross-Cutting Requirement: Manager Capability
+# Cross-Cutting Requirement: Manager Capability
 
 ## Definition
 
@@ -239,7 +239,7 @@ Well-trained managers improve team performance, reduce organisational risk, and 
 
 ---
 
-# 10. System-Level Conclusion
+# System-Level Conclusion
 
 Accessibility across the employee lifecycle is not achieved through isolated actions. It requires a coordinated system of design, governance, and continuous improvement.
 
