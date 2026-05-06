@@ -13,7 +13,7 @@ This model evaluates an organisation across **six dimensions**:
 
 Each dimension is assessed across **five maturity levels**.
 
-# LEVEL 1 — AWARENESS
+# AWARENESS
 
 ### _“We know AI exists, but we haven’t connected it to disability inclusion.”_
 
@@ -38,7 +38,7 @@ Each dimension is assessed across **five maturity levels**.
 *   Establish basic accessibility and inclusion principles.
 *   Begin mapping where AI is already being used informally.
 
-# LEVEL 2 — FOUNDATIONS
+# FOUNDATIONS
 
 ### _“We have policies and intentions, but limited operational capability.”_
 
@@ -63,7 +63,7 @@ Each dimension is assessed across **five maturity levels**.
 *   Introduce accessibility requirements into procurement.
 *   Begin auditing AI systems for bias and accessibility.
 
-# LEVEL 3 — OPERATIONALISING
+# OPERATIONALISING
 
 ### _“We are actively embedding disability inclusion into AI workflows.”_
 
@@ -88,7 +88,7 @@ Each dimension is assessed across **five maturity levels**.
 *   Build cross‑functional accessibility and AI ethics councils.
 *   Expand lived‑experience involvement into co‑design roles.
 
-# LEVEL 4 — INTEGRATED
+# INTEGRATED
 
 ### _“AI, accessibility, and disability inclusion are fully integrated into operations.”_
 
@@ -112,7 +112,7 @@ Each dimension is assessed across **five maturity levels**.
 *   Build predictive models that identify barriers before they occur.
 *   Share best practice externally to influence industry standards.
 
-# LEVEL 5 — TRANSFORMATIVE
+# TRANSFORMATIVE
 
 ### _“AI is used to actively advance disability inclusion, innovation, and equity.”_
 
