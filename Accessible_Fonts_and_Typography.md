@@ -1,6 +1,6 @@
-# 1. Foundations of Typographic Inclusion
+# Foundations of Typographic Inclusion
 
-## 1.1 Typography as an Accessibility Layer
+## Typography as an Accessibility Layer
 
 Typography is not merely aesthetic decoration; it is a core functional
 interface through which people perceive, interpret, and act on
@@ -25,7 +25,7 @@ trustworthy, which improves perceived quality and customer loyalty.
 
 ------------------------------------------------------------------------
 
-## 1.2 Legibility vs Readability
+## Legibility vs Readability
 
 Legibility refers to how easily individual characters can be
 distinguished from one another. Readability refers to how easily
@@ -45,9 +45,9 @@ information feel effortless rather than demanding.
 
 ------------------------------------------------------------------------
 
-# 2. Typeface Selection
+# Typeface Selection
 
-## 2.1 Choosing Accessible Typefaces
+## Choosing Accessible Typefaces
 
 An inclusive typeface for body text should:
 
@@ -74,7 +74,7 @@ friction.
 
 ------------------------------------------------------------------------
 
-## 2.2 The Myth of "Dyslexia Fonts"
+## The Myth of "Dyslexia Fonts"
 
 Fonts marketed as "dyslexia-friendly" do not consistently outperform
 well-designed mainstream fonts. Research shows user preference varies
@@ -96,9 +96,9 @@ increases satisfaction and trust.
 
 ------------------------------------------------------------------------
 
-# 3. Font Size and Scaling
+# Font Size and Scaling
 
-## 3.1 Default Size
+## Default Size
 
 Body text should be large enough to read comfortably without adjustment
 for most users. A commonly effective baseline is around the equivalent
@@ -117,7 +117,7 @@ to see it.
 
 ------------------------------------------------------------------------
 
-## 3.2 Relative Units and User Control
+## Relative Units and User Control
 
 Font sizes should be defined using relative units (such as rem or em)
 rather than fixed units. This allows text to respond to user
@@ -135,7 +135,7 @@ individual needs, strengthening brand perception.
 
 ------------------------------------------------------------------------
 
-# 4. Line Length (Measure)
+# Line Length (Measure)
 
 Readable line length typically falls between 50 and 75 characters per
 line, with 60--70 often providing a comfortable balance.
@@ -156,9 +156,9 @@ translates into clearer messaging and higher comprehension.
 
 ------------------------------------------------------------------------
 
-# 5. Spacing and Density
+# Spacing and Density
 
-## 5.1 Line Height (Leading)
+## Line Height (Leading)
 
 Body text benefits from generous line spacing, typically between 1.4 and
 1.6 times the font size, though the optimal value depends on the
@@ -175,7 +175,7 @@ design reinforces positive brand emotion.
 
 ------------------------------------------------------------------------
 
-## 5.2 Paragraph Spacing
+## Paragraph Spacing
 
 Paragraph separation should be visually distinct, often using spacing
 greater than line height. Consistent vertical rhythm helps readers
@@ -190,7 +190,7 @@ and perceived organisation.
 
 ------------------------------------------------------------------------
 
-## 5.3 Letter and Word Spacing
+## Letter and Word Spacing
 
 Typography should allow adjustments to:
 
@@ -209,7 +209,7 @@ trust.
 
 ------------------------------------------------------------------------
 
-# 6. Alignment and Justification
+# Alignment and Justification
 
 For left-to-right languages, body text should be left-aligned with a
 ragged right edge.
@@ -226,9 +226,9 @@ and modern.
 
 ------------------------------------------------------------------------
 
-# 7. Font Weight and Styling
+# Font Weight and Styling
 
-## 7.1 Font Weight
+## Font Weight
 
 Body text should use a regular or medium weight. Very light weights
 reduce contrast and clarity, especially on digital displays.
@@ -241,7 +241,7 @@ Strong legibility communicates quality and reliability.
 
 ------------------------------------------------------------------------
 
-## 7.2 Capitals, Italics, and Emphasis
+## Capitals, Italics, and Emphasis
 
 Avoid long passages in:
 
@@ -260,9 +260,9 @@ styling reinforces brand coherence and professionalism.
 
 ------------------------------------------------------------------------
 
-# 8. Colour and Contrast
+# Colour and Contrast
 
-## 8.1 Text Contrast
+## Text Contrast
 
 Text must have sufficient contrast against its background to remain
 readable across lighting conditions and visual abilities.
@@ -279,7 +279,7 @@ Comfortable colour choices contribute to perceived brand sophistication.
 
 ------------------------------------------------------------------------
 
-## 8.2 Text Over Images
+## Text Over Images
 
 Avoid placing text directly over complex images or patterns. Even when
 contrast appears sufficient, background complexity interferes with
@@ -294,7 +294,7 @@ visual hierarchy.
 
 ------------------------------------------------------------------------
 
-# 9. Links and Interactive Text
+# Links and Interactive Text
 
 Links must be distinguishable without relying solely on colour. Methods
 include underlines, weight changes, or indicators on interaction states.
@@ -307,7 +307,7 @@ affordances reduce frustration and increase successful task completion.
 
 ------------------------------------------------------------------------
 
-# 10. Images of Text
+# Images of Text
 
 Whenever possible, text should be implemented as real text rather than
 embedded within images. Images of text cannot adapt to resizing, colour
@@ -322,7 +322,7 @@ becomes more resilient across devices and contexts.
 
 ------------------------------------------------------------------------
 
-# 11. Responsive Typography
+# Responsive Typography
 
 Typography must adapt across screen sizes, orientations, and zoom
 levels. Content should remain readable without requiring horizontal
@@ -337,7 +337,7 @@ design.
 
 ------------------------------------------------------------------------
 
-# 12. User Overrides and Personalisation
+# User Overrides and Personalisation
 
 Users may override typography through browser settings, operating system
 accessibility features, custom stylesheets, or assistive technologies.
@@ -351,7 +351,7 @@ are more trusted and inclusive.
 
 ------------------------------------------------------------------------
 
-# 13. Language and Direction
+# Language and Direction
 
 Correct language and text direction enable accurate pronunciation,
 rendering, and interpretation across technologies.
@@ -364,7 +364,7 @@ cultural inclusion. Brands benefit through global usability.
 
 ------------------------------------------------------------------------
 
-# 14. Icons, Unicode, and Emoji
+# Icons, Unicode, and Emoji
 
 Symbols and emoji should not replace essential meaning. Provide clear
 textual labels or descriptions alongside them.
@@ -378,7 +378,7 @@ misunderstanding.
 
 ------------------------------------------------------------------------
 
-# 15. Structural Typography
+# Structural Typography
 
 Typography should communicate structure through hierarchy, spacing, size
 variation, and weight.
@@ -391,7 +391,7 @@ Organised content strengthens brand authority.
 
 ------------------------------------------------------------------------
 
-# 16. Cognitive Load and Reading Effort
+# Cognitive Load and Reading Effort
 
 Typography influences reading speed, comprehension, fatigue, and error
 rates. Reducing density and improving spacing lowers cognitive demand.
@@ -405,7 +405,7 @@ satisfaction.
 
 ------------------------------------------------------------------------
 
-# 17. Inclusive Brand Expression Through Typography
+# Inclusive Brand Expression Through Typography
 
 Inclusive design can coexist with strong brand identity by choosing
 expressive but readable typefaces and maintaining clarity in core
@@ -419,7 +419,7 @@ Typography becomes a vehicle for brand empathy.
 
 ------------------------------------------------------------------------
 
-# 18. Testing and Validation
+# Testing and Validation
 
 Inclusive typography should be validated through:
 
@@ -437,7 +437,7 @@ inclusively deliver more reliable and trusted experiences.
 
 ------------------------------------------------------------------------
 
-# 19. Implementation Principles for GPT Guidance
+# Implementation Principles for GPT Guidance
 
 When generating advice, a GPT using this knowledge base should:
 
@@ -451,7 +451,7 @@ When generating advice, a GPT using this knowledge base should:
 
 ------------------------------------------------------------------------
 
-# 20. Core Inclusive Typography Principles (Summary)
+# Core Inclusive Typography Principles (Summary)
 
 -   Clarity over decoration\
 -   Flexibility over rigidity\
