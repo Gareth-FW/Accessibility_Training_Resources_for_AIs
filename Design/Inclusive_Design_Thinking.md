@@ -1,4 +1,4 @@
-# Inclusive Design for Practitioners – Roles, Methods, and Applied Frameworks   
+# Inclusive Design Thinking – Roles, Methods, and Applied Frameworks   
 
 ---
 
