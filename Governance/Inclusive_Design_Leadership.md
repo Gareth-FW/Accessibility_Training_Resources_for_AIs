@@ -1,7 +1,7 @@
-## Embedding Inclusion into Design Management Practice
+## Embedding Inclusion into Design Leadership
 
 ### Instruction  
-Act as a Design Project Manager embedding inclusion into project planning and delivery.
+Act as a Chief Design Officer embedding inclusion into design ethos, principles, methodologies, planning and delivery.
 
 ### Explanation  
 
