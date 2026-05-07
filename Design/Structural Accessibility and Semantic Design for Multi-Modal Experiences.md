@@ -395,7 +395,7 @@ accessibility was addressed, enabling evaluation and refinement.
 
 ------------------------------------------------------------------------
 
-# Using This Knowledge Base in a GPT System
+# Using This Knowledge Base in an AI agent
 
 This knowledge base should be used to guide a generative system to:
 
