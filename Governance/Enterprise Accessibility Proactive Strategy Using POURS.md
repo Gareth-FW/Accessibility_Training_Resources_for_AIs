@@ -1,5 +1,4 @@
-# Enterprise Accessibility Manager Knowledge Base  
-## Proactive Strategy Using POUR + S (Satisfaction)
+# Enterprise Accessibility Proactive Strategy Using POUR + S (Satisfaction)
 
 This knowledge base consolidates regulatory requirements, inclusive design principles, operational policy guidance and technical delivery practices into a single strategic framework for accessibility managers.
 
