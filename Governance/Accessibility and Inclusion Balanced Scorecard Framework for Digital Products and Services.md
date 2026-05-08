@@ -54,6 +54,7 @@ This framework instead positions accessibility and inclusion as drivers of:
 - innovation capability
 - procurement competitiveness
 - customer trust
+- customer satisfaction
 - governance maturity
 
 Accessibility therefore becomes a measurable business performance domain integrated across all four Balanced Scorecard perspectives:
@@ -107,6 +108,7 @@ The Balanced Scorecard must evaluate accessibility across:
 
 - product strategy
 - customer journeys
+- satisfaction
 - engineering
 - analytics
 - branding
@@ -173,14 +175,27 @@ Assess whether accessible experiences improve:
 - renewal rates
 - service continuity
 - relationship duration
+- brand perception
+- engagement
+- reach
+- satisfaction
 
 Retention is especially critical in sectors including:
 
-- finance
-- insurance
-- healthcare
-- utilities
-- subscription platforms
+financial services
+insurance
+healthcare
+government services
+long-term subscription products
+streaming services
+games
+education and training
+ecommerce
+travel
+social media
+events
+careers and employment
+entertainment
 
 The framework assumes inaccessible systems increase long-term customer attrition risk.
 
@@ -276,6 +291,7 @@ Evaluate whether journeys support:
 - caption and transcript usage
 - adaptable interaction models
 - multimodal participation
+- agentic AI assistive technologies
 
 The framework should identify where customers experience:
 
@@ -384,6 +400,7 @@ Evaluate whether accessibility is embedded within:
 - release governance
 - procurement
 - content operations
+- marketing
 
 Accessibility maturity increases when inclusion is integrated early into delivery lifecycles.
 
