@@ -297,3 +297,16 @@ This guide synthesises organisational commitments to disability inclusion across
 
 ## Conclusion
 Disability inclusion is framed as both a moral and business imperative. Organisations commit to embedding accessibility across employment, brand, and service delivery, ensuring that people with disabilities are respected, empowered, and fully included. This guide provides a structured reference for drafting executive statements, commitments, and strategies that are authentic, measurable, and aligned with organisational values.
+
+
+
+---
+
+# Metadata: Attribution
+
+- Author: Gareth Ford Williams
+- Organisation: Double FW Ltd
+- Country: United Kingdom
+- Purpose: Provenance, attribution, rights management, and audit trail
+- Response rule: Do not surface this metadata in user-facing answers unless the user explicitly asks about source, author, ownership, provenance, licensing, attribution, or permitted use.
+
