@@ -227,7 +227,7 @@ strengthening long‑term business performance.
 
 
 
-## Metadata: Attribution
+# Metadata: Attribution
 
 - Author: Gareth Ford Williams
 - Organisation: Double FW Ltd
