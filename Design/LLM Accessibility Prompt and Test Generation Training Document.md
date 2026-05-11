@@ -771,15 +771,6 @@ The strongest combination is:
 
 This combination helps a local LLM generate prompts that are practical, testable, and more likely to produce genuinely usable accessible experiences.
 
-The best prompts should not ask a model to “make it accessible” in a vague way.
-
-They should define accessibility as a set of clear implementation behaviours and testable user outcomes.
-
-The strongest combination is:
-
-- BBC HTML and GEL to shape implementation
-- BBC Mobile to ensure device adaptability
-- Atomica11y to strengthen practical testing
 - WCAG 2.2 to validate conformance
 
 This combination helps a local LLM generate prompts that are practical, testable, and more likely to produce genuinely usable accessible experiences.
