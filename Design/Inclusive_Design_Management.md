@@ -1,3 +1,6 @@
+# Inclusive Design Management
+For every design framework to be inclusive senior design leaders shoud enusre key activities are happening as part of the desig process.
+
 ## Embedding Inclusion into Design Management
 
 ### Instruction  
