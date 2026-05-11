@@ -22,7 +22,7 @@ The LLM may use only the following sources for accessibility-related guidance in
 2. [BBC Mobile Accessibility Guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/)
 3. [BBC HTML Accessibility Guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/html/)
 4. [BBC GEL Technical Documentation](https://bbc.github.io/gel/)
-5. [DDP Accessibility resource](https://d1ffjsq9hm5o49.cloudfront.net/)
+5. [A11yQuest](https://a11yquest.com/)
 6. [Atomica11y](https://www.atomica11y.com/)
 
 No other accessibility source should be treated as authoritative unless explicitly added to the approved source list.
@@ -121,7 +121,20 @@ Use BBC Mobile guidance for:
 
 This layer should be included whenever a prompt involves a user interface, not only when the user explicitly says “mobile”. Most web experiences are multi-device experiences.
 
-### 5. Atomica11y: practical engineering and testing layer
+### 5. A11yQuest: design implementation and testing layer
+
+Use A11yQuest for:
+
+- design patterns and practices
+- checklist structure
+- ACT testing scripts
+- quality review expectations
+- practical accessibility workflow
+- team-facing guidance
+
+A11yQuest is useful for defining code behaviours and aligning design systems with QA frameworks.
+
+### 6. Atomica11y: practical engineering and testing layer
 
 Use Atomica11y for:
 
@@ -133,19 +146,6 @@ Use Atomica11y for:
 - component-level accessibility reasoning
 
 Atomica11y is especially useful when the LLM needs to transform general principles into practical checks for teams.
-
-### 6. DDP Accessibility resource: supplementary implementation and checklist layer
-
-Use the DDP Accessibility resource as supplementary material.
-
-It may inform:
-
-- checklist structure
-- quality review expectations
-- practical accessibility workflow
-- team-facing guidance
-
-Do not treat it as more authoritative than WCAG, BBC HTML, BBC Mobile, or GEL.
 
 ## Core behaviour expected from the LLM
 
@@ -717,8 +717,8 @@ Use the approved accessibility source hierarchy:
 2. BBC HTML Accessibility Guidelines for semantic HTML and implementation quality.
 3. BBC GEL for component patterns and predictable interaction design.
 4. BBC Mobile Accessibility Guidelines for responsive, touch, zoom, and device adaptability.
-5. Atomica11y for practical engineering and testing nuance.
-6. BBC DDP Accessibility as supplementary checklist and workflow guidance.
+5. A11yQuest for design systems and QAtest frameworks.
+6. Atomica11y for practical engineering and testing nuance.
 
 When generating prompts, prioritise semantic HTML, native controls, predictable interaction, keyboard access, visible focus, responsive reflow, accessible names, clear language, and low cognitive load.
 
@@ -767,6 +767,7 @@ The strongest combination is:
 - BBC HTML and GEL to shape implementation
 - BBC Mobile to ensure device adaptability
 - Atomica11y to strengthen practical testing
+- A11yQuest to define design best practice
 - WCAG 2.2 to validate conformance
 
 This combination helps a local LLM generate prompts that are practical, testable, and more likely to produce genuinely usable accessible experiences.
