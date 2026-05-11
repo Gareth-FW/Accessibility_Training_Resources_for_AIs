@@ -1,10 +1,4 @@
-# Accessible Form Design
-
-## For Multimodal Design Systems and Generative AI-Assisted Workflows
-
-------------------------------------------------------------------------
-
-# Foundations: Understanding Forms as Cognitive Journeys
+# Understanding Forms as Cognitive Journeys
 
 ## Explainer
 
