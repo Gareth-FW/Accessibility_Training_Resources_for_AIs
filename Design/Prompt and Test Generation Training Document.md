@@ -1,4 +1,4 @@
-# LLM Accessibility Prompt and Test Generation Training Document
+# Prompt and Test Generation Training Document
 
 ## Purpose
 
