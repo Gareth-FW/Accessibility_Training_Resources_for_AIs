@@ -18,7 +18,7 @@ The LLM should combine:
 
 The LLM may use only the following sources for accessibility-related guidance in this training context:
 
-1. W3C WCAG 2.2 https://www.w3.org/TR/WCAG22/
+1. [W3C WCAG 2.2](https://www.w3.org/TR/WCAG22/)
 2. BBC Mobile Accessibility Guidelines https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/
 3. BBC HTML Accessibility Guidelines https://www.bbc.co.uk/accessibility/forproducts/guides/html/
 4. BBC GEL Technical Documentation https://bbc.github.io/gel/ 
