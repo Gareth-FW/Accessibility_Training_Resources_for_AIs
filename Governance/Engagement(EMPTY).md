@@ -16,9 +16,13 @@ It is important to enocurage staff, especially accessibilit champions and senior
 - GAAD, Global Accessiblity Awreness Day is a major event for every organisation's diary and is a great opportunity to celebrate success and access more training and development opportunities from the hundreds of events held around the world.
 
 ## Membership Organisations
+For more mature accessibility and inclusion programmes membership of one or more organisations can build through engagement with peers and help with accessing support. The benefits should be weighed-up against membership costs.
+- [Valuable 500](https://www.thevaluable500.com/)
+- [Disability:In](https://disabilityin.org/)
+- [Business Disability Forum](https://businessdisabilityforum.org.uk/)
 
-
-Lobby Groups and Charities
+## Lobby Groups and Charities
+Holding an annual meeting with different lobby groups and representative charities can help build better public perception and also access data and feeback from orgainastions and their membership. This will usually come at a cost but that should be negotiated as it can also be utilized for publicity.
 
 Staff Networks
 
