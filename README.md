@@ -1,4 +1,4 @@
-# Accessibility_Training_Resources_for_AIs
+# Design_Accessibility_Training_Resources_for_AIs
 Free resources for use in training LLMs about Inclusive Design Thinking, Principles, Practices and Management.
 
 Governance is an LLM training dataset that should cover everything a Chief Accessibility Offiter offers embedded into your organisation's business systems and processes. This training dataset covers strategy, policy, regulation, reporting, analysis, engagement and business opportunity. 
