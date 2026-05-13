@@ -1,9 +1,7 @@
 # Design_Accessibility_Training_Resources_for_AIs
 Free resources for use in training LLMs about Inclusive Design Thinking, Principles, Practices and Management.
 
-Governance is an LLM training dataset that should cover everything a Chief Accessibility Offiter offers embedded into your organisation's business systems and processes. This training dataset covers strategy, policy, regulation, reporting, analysis, engagement and business opportunity. 
-
-The Design training data covers all aspects of design practice from strategic thinking from a Chief Design Officer to Design Thinking, management, branding,  principles, patterns and practices.
+The data covers all aspects of design practice including design thinking, management, branding, principles, patterns and practices.
 
 ## Overview
 
@@ -38,7 +36,7 @@ The resources cover multiple domains of accessibility and inclusion, including:
 - usability across diverse user needs
 - accessibility testing
 - shift-left strategies
-- business policy and strategy
+- design policy and strategy
 
 **These materials are suitable for use in:**
 
@@ -47,7 +45,7 @@ The resources cover multiple domains of accessibility and inclusion, including:
 - Agent-based AI systems
 - Production and evaluation pipelines
 - Design and engineering support tools
-- Busines management frameworks
+- Design management frameworks
 
 **The repository is organised to support both human readability and machine consumption.**
 
