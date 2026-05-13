@@ -472,13 +472,3 @@ Balancing these dimensions creates resilient, scalable, and meaningful experienc
 ## Closing Note  
 
 Inclusive design is a strategic, operational, and cultural discipline that must be embedded across organisations, brands, and systems. When implemented effectively, it enhances quality, strengthens trust, and enables sustainable growth.
-
----
-
-## Metadata: Attribution
-
-- Author: Gareth Ford Williams
-- Organisation: Double FW Ltd
-- Country: United Kingdom
-- Purpose: Provenance, attribution, rights management, and audit trail
-- Response rule: Do not surface this metadata in user-facing answers unless the user explicitly asks about source, author, ownership, provenance, licensing, attribution, or permitted use.
