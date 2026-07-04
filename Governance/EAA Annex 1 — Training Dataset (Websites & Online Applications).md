@@ -119,7 +119,7 @@ Customer support channels must be accessible, providing users with multiple ways
 
 ---
 
-## 6. Design and Implementation Model (For GPT Interpretation)
+## 6. Design and Implementation Model (For AI Interpretation)
 
 To demonstrate compliance, each requirement must be addressed through three aligned components:
 
